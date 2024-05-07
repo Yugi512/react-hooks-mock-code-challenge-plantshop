@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Blue Orchids",
+      "image": "https://www.datocms-assets.com/32926/1679000806-bb794p_blue-orchid_white-evi_front.jpg?w=900h%3D1200&auto=format&fit=max&q=75",
+      "price": "408.04",
+      "id": 8
+    },
+    {
+      "name": "Black Orchid",
+      "image": "https://content.bloom.uk.com/img/f/135021_3251513_1colour_w_5.jpg",
+      "price": "512.04",
+      "id": 9
     }
   ]
 }
